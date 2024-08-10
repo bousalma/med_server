@@ -1,0 +1,9 @@
+annotated-types
+fastapi
+pycparser
+pydantic
+pydantic_core
+requests
+snowflake-connector-python
+uvicorn
+urllib3<2.0.0,>=1.21.1
